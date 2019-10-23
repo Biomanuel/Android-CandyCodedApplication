@@ -3,4 +3,6 @@
     <string name="products_title">Products</string>
     <string name="info_activity_hours_textview">Everyday 10am-10pm</string>
     <string name="activity_info_phone_textview">(012)345-6789</string>
+    <string name="info_activity_address_textview">618 E South St Orlando, FL</string>
+    <string name="info_activity_imageview_desc">Images on infoActivity</string>
 </resources>
