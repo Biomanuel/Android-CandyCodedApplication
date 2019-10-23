@@ -53,7 +53,7 @@
         android:text="@string/activity_info_phone_textview"
         android:clickable="true"
         android:focusable="true"
-        android:onClick="createMapIntent"
+        android:onClick="createPhoneIntent"
         android:textColor="?android:attr/actionMenuTextColor"
         android:textSize="18sp"
         app:layout_constraintLeft_toLeftOf="@+id/text_view_address"
